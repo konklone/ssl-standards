@@ -223,6 +223,6 @@ For an example, see [`sites/star.18f.us`](sites/star.18f.us).
 
 #### Resources
 
-* https://konklone.com/post/switch-to-https-now-for-free
+* https://konklone.com/post/switch-to-https-now-for-free 
 * https://bettercrypto.org/static/applied-crypto-hardening.pdf
 * http://support.f5.com/kb/en-us/solutions/public/11000/400/sol11440.html
